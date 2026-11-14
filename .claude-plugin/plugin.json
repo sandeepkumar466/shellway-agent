@@ -1,1 +1,22 @@
-{"name":"shellway","description":"Let your AI agent work on your own computers and servers through Shellway: run commands, read and edit files, search — from any device, no open ports.","version":"1.0.0","author":{"name":"Shellway","url":"https://getshellway.com"},"homepage":"https://getshellway.com","license":"MIT","keywords":["mcp","remote","terminal","files","ssh","home-lab","devops"]}
+{
+  "name": "shellway",
+  "description": "Let your AI agent work on your own computers and servers through Shellway: run commands, read and edit files, search — from any device, no open ports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shellway",
+    "url": "https://getshellway.com"
+  },
+  "homepage": "https://getshellway.com",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "remote",
+    "terminal",
+    "files",
+    "ssh",
+    "home-lab",
+    "devops"
+  ],
+  "repository": "https://github.com/sandeepkumar466/shellway-agent",
+  "privacyPolicyUrl": "https://getshellway.com/privacy/"
+}
