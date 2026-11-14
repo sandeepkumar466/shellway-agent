@@ -1,0 +1,1 @@
+{"name":"shellway","description":"Let your AI agent work on your own computers and servers through Shellway.","version":"1.0.0","mcpServers":{"shellway":{"httpUrl":"https://mcp.getshellway.com/mcp"}},"contextFileName":"skills/shellway/SKILL.md"}
