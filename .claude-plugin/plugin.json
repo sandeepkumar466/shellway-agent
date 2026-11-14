@@ -1,7 +1,7 @@
 {
   "name": "shellway",
   "description": "Let your AI agent work on your own computers and servers through Shellway: run commands, read and edit files, search — from any device, no open ports.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Shellway",
     "url": "https://getshellway.com"
