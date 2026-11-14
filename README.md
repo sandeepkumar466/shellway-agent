@@ -21,6 +21,12 @@ This plugin adds:
 gemini extensions install https://github.com/sandeepkumar466/shellway-agent
 ```
 
+**Cursor**: install **Shellway** from the Cursor Marketplace (once listed), or add it by hand in
+`~/.cursor/mcp.json`:
+```json
+{ "mcpServers": { "shellway": { "url": "https://mcp.getshellway.com/mcp" } } }
+```
+
 **Any MCP client**: add a remote (streamable HTTP) MCP server with URL `https://mcp.getshellway.com/mcp`.
 
 Then connect your computer: sign in at https://mcp.getshellway.com/dashboard and run the one-line
