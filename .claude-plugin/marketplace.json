@@ -1,0 +1,1 @@
+{"name":"shellway","description":"Shellway — your own computers and servers, from your AI agent.","owner":{"name":"Shellway","email":"support@getshellway.com"},"plugins":[{"name":"shellway","source":"./","description":"Run commands, read and edit files on your own computers through the Shellway MCP relay.","version":"1.0.0"}]}
