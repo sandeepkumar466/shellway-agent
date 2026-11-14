@@ -18,5 +18,8 @@
     "devops"
   ],
   "repository": "https://github.com/sandeepkumar466/shellway-agent",
-  "privacyPolicyUrl": "https://getshellway.com/privacy/"
+  "privacyPolicyUrl": "https://getshellway.com/privacy/",
+  "supportUrl": "https://getshellway.com/contact/",
+  "documentationUrl": "https://getshellway.com/connect/claude/",
+  "termsOfServiceUrl": "https://getshellway.com/terms/"
 }
